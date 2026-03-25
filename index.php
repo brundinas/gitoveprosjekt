@@ -1,3 +1,8 @@
+<?php
+$version = 'v0.0.2';
+
+
+?>
 <!DOCTYPE html>
 <html lang="no">
 <head>
