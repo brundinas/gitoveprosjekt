@@ -21,7 +21,7 @@ $version = 'v0.0.2';
     <section class="card">
       <h2>Navneliste</h2>
       <ul class="student-list">
-        <li class="hilde">Hilde</li>
+        <li class="mats">Mats</li>
         <!-- Elevene legger til navnet sitt her -->
         <li class="viggo">Viggo</li>
         <!-- Eksempel:
