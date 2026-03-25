@@ -1,3 +1,8 @@
+<?php
+$version = 'v0.0.2';
+
+
+?>
 <!DOCTYPE html>
 <html lang="no">
 <head>
@@ -18,8 +23,9 @@
       <ul class="student-list">
         <li class="hilde">Hilde</li>
         <!-- Elevene legger til navnet sitt her -->
+        <li class="viggo">Viggo</li>
         <!-- Eksempel:
-        
+
         -->
       </ul>
     </section>
